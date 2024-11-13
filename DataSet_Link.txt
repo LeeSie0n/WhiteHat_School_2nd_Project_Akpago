@@ -1,4 +1,0 @@
-https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing
-
-Since the dataset is over 25MB in size, I will upload it as a link to the CSV file on Google Drive. I will find a way to upload it again later.
-I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@naver.com.
