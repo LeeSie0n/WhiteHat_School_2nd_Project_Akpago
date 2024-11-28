@@ -10,4 +10,4 @@ Since the data set is huge, I will attach the Google Drive below.
 
 https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing
 
-I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to [email](sieon0712@cu.ac.kr)
+I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@cu.ac.kr
