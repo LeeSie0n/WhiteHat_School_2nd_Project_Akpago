@@ -3,8 +3,9 @@ GitHub, which stores files and presentation data(powerpoint) on malicious code a
 
 Please be informed that the copyright of this project belongs to the Korea Information Technology Research Institute and the Akpago team that carried out the project. If you would like to use the related code and dataset, please contact sieon0712@cu.ac.kr first for a quick response. Thank you.
 
-+ DataSet
+++
+Since the data set is huge, I will attach the Google Drive below.
+
 https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing
 
-Since the dataset is over 25MB in size, I will upload it as a link to the CSV file on Google Drive. I will find a way to upload it again later.
-I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@naver.com.
+I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@cu.ac.kr
