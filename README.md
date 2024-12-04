@@ -3,7 +3,9 @@
 This repository contains files and presentation materials (PowerPoint) related to malicious code analysis and machine learning-based malicious code detection. The project leverages behavior analysis data (capa rules) based on MITRE ATT&CK TTPs and was conducted by the WhiteHat School team, Akpago.
 
 ## Team Information
-This project was carried out by the WhiteHat School team, Akpago, under the supervision of the Korea Information Technology Research Institute.
+This project was carried out by the WhiteHat School team, Akpago, under the supervision of the Korea Information Technology Research Institute.   
+
+Our team consists of   
 
 [Mentor] Son Seung-ho   
 [Project Leader] Kim Doo-young   
