@@ -5,7 +5,6 @@ This repository contains files and presentation materials (PowerPoint) related t
 ## Team Information
 This project was carried out by the WhiteHat School team, Akpago, under the supervision of the Korea Information Technology Research Institute.
 
-Team Members   
 [Mentor] Son Seung-ho   
 [Project Leader] Kim Doo-young   
 [Project Manager] Oh Tae-ho   
