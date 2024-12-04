@@ -1,11 +1,20 @@
-# README.md
-GitHub, which stores files and presentation data(powerpoint) on malicious code analysis and machine learning-based malicious code detection using MITRE ATT&CK TTPs behavior analysis data (capa rule) conducted by the WhiteHat School team Akpago
+# Malicious Code Analysis and Detection using MITRE ATT&CK TTPs
+## Introduction
+This repository contains files and presentation materials (PowerPoint) related to malicious code analysis and machine learning-based malicious code detection. The project leverages behavior analysis data (capa rules) based on MITRE ATT&CK TTPs and was conducted by the WhiteHat School team, Akpago.
 
-Please be informed that the copyright of this project belongs to the Korea Information Technology Research Institute and the Akpago team that carried out the project. If you would like to use the related code and dataset, please contact sieon0712@<hi>cu.ac.kr first for a quick response. Thank you.
+## Team Information
+This project was carried out by the WhiteHat School team, Akpago, under the supervision of the Korea Information Technology Research Institute.
 
-&nbsp;
+## Dataset Information
+The dataset used in this project is quite large and is hosted on Google Drive. You can access and download it using the link below:
+[Google Drive Link Here]
 
-++   
-Since the data set is huge, I will attach the [Google Drive](https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing) below.
+If you encounter any issues while accessing the dataset, please reach out to sieon0712@cu.ac.kr for assistance.
 
-I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@<hi>cu.ac.kr
+## Contact Information
+If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr
+We will respond promptly.
+
+## Copyright Notice
+The copyright of this project belongs to the Korea Information Technology Research Institute and the Akpago team.
+If you wish to use the code or dataset associated with this project, please contact us for approval.
