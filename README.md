@@ -8,13 +8,13 @@ This project was carried out by the WhiteHat School team, Akpago, under the supe
 Our team consists of   
 
 [Mentor] Son Seung-ho   
-[Project Leader] Kim Doo-young   
-[Project Manager] Oh Tae-ho   
-[Team Member] Kim Na-yeon   
-[Team Member] Kim Sang-hoon   
-[Team Member] Lee Si-eon   
-[Team Member] Im Na-hyeon   
-[Team Member] Heo Ra-young   
+[Leader] Kim Doo-young   
+[Manager] Oh Tae-ho   
+[Member] Kim Na-yeon   
+[Member] Kim Sang-hoon   
+[Member] Lee Si-eon   
+[Member] Im Na-hyeon   
+[Member] Heo Ra-young   
 
 ## Dataset Information
 The dataset used in this project is quite large and is hosted on Google Drive. You can access and download it using the link below [Link Here](https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing).
