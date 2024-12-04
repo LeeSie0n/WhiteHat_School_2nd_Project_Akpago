@@ -26,5 +26,5 @@ If you have any questions or inquiries, please feel free to contact us at sieon0
 We will respond promptly.
 
 ## Copyright Notice
-The copyright of this project belongs to the Korea Information Technology Research Institute and the Akpago team.
+The copyright of this project belongs to the Korea Information Technology Research Institute and the Akpago team. Unauthorized use is prohibited.
 If you wish to use the code or dataset associated with this project, please contact us for approval.
