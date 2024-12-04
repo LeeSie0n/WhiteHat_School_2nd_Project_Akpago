@@ -6,13 +6,12 @@ This repository contains files and presentation materials (PowerPoint) related t
 This project was carried out by the WhiteHat School team, Akpago, under the supervision of the Korea Information Technology Research Institute.
 
 ## Dataset Information
-The dataset used in this project is quite large and is hosted on Google Drive. You can access and download it using the link below:
-[Google Drive Link Here]
+The dataset used in this project is quite large and is hosted on Google Drive. You can access and download it using the link below [Link Here](https://drive.google.com/file/d/1NIEUCXPwBqT8Qf0tPrfyxiOBEYe_zwUj/view?usp=sharing).
 
-If you encounter any issues while accessing the dataset, please reach out to sieon0712@cu.ac.kr for assistance.
+If you encounter any issues while accessing the dataset, please reach out to sieon0712<dummy>@cu.ac.kr for assistance.
 
 ## Contact Information
-If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr
+If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr   
 We will respond promptly.
 
 ## Copyright Notice
