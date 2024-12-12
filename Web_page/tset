@@ -1,0 +1,80 @@
+import { Shield } from "lucide-react";
+import React, { useState } from "react";
+import { render } from "react-dom";
+import { Pie } from "react-chartjs-2";
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
+ChartJS.register(ArcElement, Tooltip, Legend);
+export default function MalwareDetection() {
+  const [showResults, setShowResults] = useState(false);
+  const chartData = {
+    labels: ["Normal", "Malicious"],
+    datasets: [
+      {
+        data: [82.94, 17.06],
+        backgroundColor: ["#2E7D32", "#C62828"],
+        borderWidth: 0,
+        offset: 20,
+      },
+    ],
+  };
+  const chartOptions = {
+    plugins: {
+      legend: {
+        position: "bottom",
+        labels: {
+          color: "black",
+        },
+      },
+    },
+    responsive: true,
+    maintainAspectRatio: true,
+  };
+  return (
+    <div className="min-h-screen w-full bg-white p-8">
+      <div className="max-w-2xl mx-auto">
+        <div className="flex flex-col items-center mb-8">
+          <div className="relative w-24 h-24 mb-2">
+            <Shield className="w-full h-full text-[#2E7D32]" />
+            <div className="absolute top-1/4 left-1/2 transform -translate-x-1/2 w-8 h-4 bg-[#2E7D32] rounded-t-full" />
+          </div>
+
+          <h1 className="text-[#2E7D32] text-3xl font-bold mb-4">AKPAGO</h1>
+          <p className="text-gray-800 text-lg text-center">
+            Please upload your file to begin malware detection
+          </p>
+        </div>
+
+        <div className="flex justify-center mb-8">
+          <button
+            onClick={() => setShowResults(true)}
+            className="bg-[#2E7D32] text-white px-8 py-3 rounded-lg hover:bg-opacity-90 transition-opacity"
+          >
+            Choose File
+          </button>
+        </div>
+
+        {showResults && (
+          <div className="flex flex-col md:flex-row items-center justify-center gap-8">
+            <div className="w-64">
+              <Pie data={chartData} options={chartOptions} />
+            </div>
+
+            <div className="w-px h-32 bg-gray-300 hidden md:block"></div>
+
+            <div className="text-gray-800">
+              <p className="mb-2">
+                Normal Probability: {chartData.datasets[0].data[0].toFixed(2)}%
+              </p>
+              <p className="mt-4">
+                The probability of being malicious is{" "}
+                {chartData.datasets[0].data[1].toFixed(2)} percent.
+              </p>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+render(<MalwareDetection />, document.getElementById("root"));
+
